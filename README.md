@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning:
   * Machine Learning and Data Science
   * Also exploring advanced Python
-- 🤖My main programming language is Python
+- 🤖 My tech stack: C++, Python, Tensflow, Git, GitHub
+- 🐍 My main programming language is Python
 - ⚡ Interesting facts about me: 
    * I love coding
    * Solving algorithm problems 
@@ -15,4 +16,6 @@
   * Instagram: @alijanov_muhammadyusuf 
   * Twitter: @alijanov23
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,tensorflow,git,discord&perline=5)](https://skillicons.dev)
+
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadyusuf-Alijonov&show_icons=true&theme=dark)
