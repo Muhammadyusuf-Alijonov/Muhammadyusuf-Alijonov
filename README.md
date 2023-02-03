@@ -2,7 +2,7 @@
 # My name is Muhammadyusuf, but you can call me just Muhammad, feel free)
 - 🌱 I’m currently learning:
   * 🤖Machine Learning and Data Science
-  * 🚩Also exploring Python advanced
+  * 🚩Also exploring advanced Python
 - 📫 How to reach me: 
   * Telegram: @alijanov_muhammadyusuf
   * Mail: @mukhammadyusuf.alijanov25@gmail.com
