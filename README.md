@@ -14,3 +14,5 @@
   * Mail: @mukhammadyusuf.alijanov25@gmail.com
   * Instagram: @alijanov_muhammadyusuf 
   * Twitter: @alijanov23
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
