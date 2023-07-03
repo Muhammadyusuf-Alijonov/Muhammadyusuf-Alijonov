@@ -18,6 +18,6 @@
   * Instagram: @alijanov_muhammadyusuf 
   * Twitter: @alijanov23
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,php,tensorflow,git,discord,html,css,js&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,php,js,tensorflow,git,discord,html,css&perline=5)](https://skillicons.dev)
 
 ![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadyusuf-Alijonov&show_icons=true&theme=dark)
